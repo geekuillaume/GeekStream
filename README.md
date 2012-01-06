@@ -35,4 +35,4 @@ Ce code est fourni dans un but éducationnel et je ne pourrais être tenu respon
 
 ### Crédits
 
-Créateur : [Geekuillaume] (geekuillau.me)
+Créateur : [Geekuillaume] (http://geekuillau.me/)
