@@ -28,7 +28,11 @@ De plus un lecteur DivX est integré pour voir les vidéos en streaming.
 
 	- La page principale se compose de trois fichiers : header.php, page.php (répété plusieurs fois) et footer.php.
 	- Ces fichiers se trouvent dans /application/views/
-	
+
+### Disclaimer
+
+Ce code est fourni dans un but éducationnel et je ne pourrais être tenu responsable de toute utilisation illégale de cette application.
+
 ### Crédits
 
 Créateur : [Geekuillaume] (geekuillau.me)
